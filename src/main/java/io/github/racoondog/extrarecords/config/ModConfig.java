@@ -13,4 +13,10 @@ public class ModConfig implements ConfigData {
     public boolean minecraftOST = true;
     public boolean helltakerOST = true;
     public boolean ddlcOST = true;
+    
+    //MINECRAFT BETTER - MazeWave
+
+    public boolean anime = true;
+    public boolean ost = true;
+    public boolean music = true;
 }

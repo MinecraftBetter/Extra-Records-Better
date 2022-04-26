@@ -86,6 +86,13 @@ public class ModItems {
     public static final Item SAYO_NARA = create("sayo-nara", () -> CONFIG.ddlcOST, DiscTexture.DDLC_BROKEN);
     public static final Item YOUR_REALITY = create("your_reality", () -> CONFIG.ddlcOST, DiscTexture.DDLC);
 
+
+    //MINECRAFT BETTER - MazeWave
+
+
+    public static final Item VEIL = create("veil", () -> CONFIG.anime, DiscTexture.ANIME);
+    public static final Item CARRETERO = create("carretero", () -> CONFIG.music, DiscTexture.MUSIC);
+
     public static void registerItems() {
     }
 

@@ -497,12 +497,28 @@
       }
     ]
   },
+  "veil": {
+    "sounds": [
+      {
+        "name": "extrarecords:anime/veil",
+        "stream": true
+      }
+    ]
+  },
+  "carretero": {
+    "sounds": [
+      {
+        "name": "extrarecords:music/carretero",
+        "stream": true
+      }
+    ]
+  },
   "your_reality": {
     "sounds": [
       {
         "name": "extrarecords:ddlc/your_reality",
         "stream": true
-      }
+      }  
     ]
   }
 }

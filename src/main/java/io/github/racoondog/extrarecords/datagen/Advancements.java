@@ -22,6 +22,18 @@ public class Advancements {
         if (CONFIG.ddlcOST) {
             createAdvancement("ddlc", "extrarecords:your_reality", FrameType.GOAL, Lists.newArrayList("daijoubu", "doki_doki_literature_club", "dreams_of_love_and_literature", "i_still_love_you", "my_confession", "my_feelings", "ohayou_sayori", "okay_everyone", "play_with_me", "poem_panic", "sayo-nara", "your_reality"));
         }
+
+        //MINECRAFT BETTER - MazeWave
+
+        if (CONFIG.anime) {
+            createAdvancement("anime", "extrarecords:veil", FrameType.GOAL, Lists.newArrayList("veil"));
+        }
+        if (CONFIG.ost) {
+            createAdvancement("ost", "extrarecords:", FrameType.GOAL, Lists.newArrayList(""));
+        }
+        if (CONFIG.music) {
+            createAdvancement("music", "extrarecords:carretero", FrameType.GOAL, Lists.newArrayList("carretero"));
+        }
     }
 
     private static void createAdvancement(String path, String icon, String lang, FrameType frameType, String parent, String criteria, String requirements) {
