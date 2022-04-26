@@ -92,6 +92,24 @@ public class ModItems {
 
     public static final Item VEIL = create("veil", () -> CONFIG.anime, DiscTexture.ANIME);
     public static final Item CARRETERO = create("carretero", () -> CONFIG.music, DiscTexture.MUSIC);
+    public static final Item LAYLOW = create("ciudad", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("dehors_dans_la_night", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("iversion", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("logiciel_triste", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("maladresse", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("medaille", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("megatron", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("plug", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("prince_de_sang-mele", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("r9r-line", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("special", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("stuntmen", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("swish", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("trinityville", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("vent_de_lest", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("window_shopper_part1", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+    public static final Item LAYLOW = create("window_shopper_part2", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+
 
     public static void registerItems() {
     }

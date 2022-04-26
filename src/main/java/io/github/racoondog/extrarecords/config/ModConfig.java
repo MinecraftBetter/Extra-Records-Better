@@ -19,4 +19,5 @@ public class ModConfig implements ConfigData {
     public boolean anime = true;
     public boolean ost = true;
     public boolean music = true;
+    public boolean laylow = true;
 }

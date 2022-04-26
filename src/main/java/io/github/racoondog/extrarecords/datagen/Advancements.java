@@ -34,6 +34,9 @@ public class Advancements {
         if (CONFIG.music) {
             createAdvancement("music", "extrarecords:carretero", FrameType.GOAL, Lists.newArrayList("carretero"));
         }
+        if (CONFIG.laylow) {
+            createAdvancement("laylow", "extrarecords:laylow", FrameType.GOAL, Lists.newArrayList("ciudad", "dehors_dans_la_night", "iversion", "logiciel_triste", "maladresse", "medaille", "megatron", "plug", "prince_de_sang-mele", "r9r-line", "special", "stuntmen", "swish", "trinityville", "vent_de_lest", "windows_shopper_part1", "window_shopper_part2"));
+        }
     }
 
     private static void createAdvancement(String path, String icon, String lang, FrameType frameType, String parent, String criteria, String requirements) {

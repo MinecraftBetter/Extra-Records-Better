@@ -18,7 +18,8 @@ public enum DiscTexture {
     
     ANIME("item/anime_disc"),
     OST("item/ost_disc"),
-    MUSIC("item/music_disc");
+    MUSIC("item/music_disc"),
+    LAYLOW("item/laylow_disc");
 
     public final String textureName;
 
