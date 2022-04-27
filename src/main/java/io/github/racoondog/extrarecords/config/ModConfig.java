@@ -20,4 +20,5 @@ public class ModConfig implements ConfigData {
     public boolean ost = true;
     public boolean music = true;
     public boolean laylow = true;
+    public boolean troll = true;
 }

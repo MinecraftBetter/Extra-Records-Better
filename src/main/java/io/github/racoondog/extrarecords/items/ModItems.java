@@ -90,8 +90,13 @@ public class ModItems {
     //MINECRAFT BETTER - MazeWave
 
 
-    public static final Item VEIL = create("veil", () -> CONFIG.anime, DiscTexture.ANIME);
+    //Music
     public static final Item CARRETERO = create("carretero", () -> CONFIG.music, DiscTexture.MUSIC);
+    
+    //Anime
+    public static final Item VEIL = create("veil", () -> CONFIG.anime, DiscTexture.ANIME);
+    
+    //Laylow
     public static final Item CIUDAD = create("ciudad", () -> CONFIG.laylow, DiscTexture.LAYLOW);
     public static final Item DEHORS_DANS_LA_NIGHT = create("dehors_dans_la_night", () -> CONFIG.laylow, DiscTexture.LAYLOW);
     public static final Item IVERSION = create("iversion", () -> CONFIG.laylow, DiscTexture.LAYLOW);
@@ -109,6 +114,8 @@ public class ModItems {
     public static final Item VENTDELEST = create("vent_de_lest", () -> CONFIG.laylow, DiscTexture.LAYLOW);
     public static final Item WINDOWSHOPPERPART1 = create("window_shopper_part1", () -> CONFIG.laylow, DiscTexture.LAYLOW);
     public static final Item WINDOWSHOPPERPART2 = create("window_shopper_part2", () -> CONFIG.laylow, DiscTexture.LAYLOW);
+
+
 
 
     public static void registerItems() {
