@@ -513,63 +513,7 @@
       }
     ]
   },
-  "laylow": {
-    "sounds": [
-      {
-        "name": "extrarecords:laylow/carretero",
-        "stream": true
-      }
-    ]
-  },
-  "laylow": {
-    "sounds": [
-      {
-        "name": "extrarecords:laylow/carretero",
-        "stream": true
-      }
-    ]
-  },
-  "laylow": {
-    "sounds": [
-      {
-        "name": "extrarecords:laylow/ciudad",
-        "stream": true
-      }
-    ]
-  },
-  "laylow": {
-    "sounds": [
-      {
-        "name": "extrarecords:laylow/dehors_dans_la_night",
-        "stream": true
-      }
-    ]
-  },
-  "laylow": {
-    "sounds": [
-      {
-        "name": "extrarecords:laylow/iversion",
-        "stream": true
-      }
-    ]
-  },
-  "laylow": {
-    "sounds": [
-      {
-        "name": "extrarecords:laylow/logiciel_triste",
-        "stream": true
-      }
-    ]
-  },
-  "laylow": {
-    "sounds": [
-      {
-        "name": "extrarecords:laylow/carretero",
-        "stream": true
-      }
-    ]
-  },
-  "laylow": {
+  "maladresse": {
     "sounds": [
       {
         "name": "extrarecords:laylow/maladresse",
@@ -577,7 +521,7 @@
       }
     ]
   },
-  "laylow": {
+  "medaille": {
     "sounds": [
       {
         "name": "extrarecords:laylow/medaille",
@@ -585,7 +529,7 @@
       }
     ]
   },
-  "laylow": {
+  "megatron": {
     "sounds": [
       {
         "name": "extrarecords:laylow/megatron",
@@ -593,7 +537,7 @@
       }
     ]
   },
-  "laylow": {
+  "plug": {
     "sounds": [
       {
         "name": "extrarecords:laylow/plug",
@@ -601,7 +545,7 @@
       }
     ]
   },
-  "laylow": {
+  "prince_de_sang-mele": {
     "sounds": [
       {
         "name": "extrarecords:laylow/prince_de_sang-mele",
@@ -609,7 +553,7 @@
       }
     ]
   },
-  "laylow": {
+  "r9r-line": {
     "sounds": [
       {
         "name": "extrarecords:laylow/r9r-line",
@@ -617,7 +561,7 @@
       }
     ]
   },
-  "laylow": {
+  "special": {
     "sounds": [
       {
         "name": "extrarecords:laylow/special",
@@ -625,7 +569,7 @@
       }
     ]
   },
-  "laylow": {
+  "stuntmen": {
     "sounds": [
       {
         "name": "extrarecords:laylow/stuntmen",
@@ -633,7 +577,7 @@
       }
     ]
   },
-  "laylow": {
+  "trinityville": {
     "sounds": [
       {
         "name": "extrarecords:laylow/trinityville",
@@ -641,7 +585,7 @@
       }
     ]
   },
-  "laylow": {
+  "vent_de_lest": {
     "sounds": [
       {
         "name": "extrarecords:laylow/vent_de_lest",
@@ -649,7 +593,7 @@
       }
     ]
   },
-  "laylow": {
+  "window_shopper_part1": {
     "sounds": [
       {
         "name": "extrarecords:laylow/window_shopper_part1",
@@ -657,7 +601,7 @@
       }
     ]
   },
-  "laylow": {
+  "window_shopper_part2": {
     "sounds": [
       {
         "name": "extrarecords:laylow/window_shopper_part2",
