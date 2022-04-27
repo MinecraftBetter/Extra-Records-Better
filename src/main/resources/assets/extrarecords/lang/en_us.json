@@ -111,6 +111,17 @@
   "item.extrarecords.trinityville.desc": "Laylow - Trinityville",
   "item.extrarecords.vent_de_lest.desc": "Laylow - Vent de lest",
   "item.extrarecords.window_shopper_part1.desc": "Laylow - Window shopper part1",
-  "item.extrarecords.window_shopper_part2.desc": "Laylow - Window shopper part2"
+  "item.extrarecords.window_shopper_part2.desc": "Laylow - Window shopper part2",
+
+  "item.extrarecords.barbygirl.desc": "Troll - barbygirl",
+  "item.extrarecords.rickroll.desc": "Troll - rickroll",
+  "item.extrarecords.rock.desc": "Troll - rock",
+  "item.extrarecords.roisard.desc": "Troll - roisard",
+  "item.extrarecords.ronardofan.desc": "Troll - ronardofan",
+  "item.extrarecords.sardjap.desc": "Troll - sardjap",
+  "item.extrarecords.sardjapo.desc": "Troll - sardjapo",
+  "item.extrarecords.smilesard.desc": "Troll - smilesard",
+  "item.extrarecords.trolls.desc": "Troll - trolls",
+  "item.extrarecords.undertroll.desc": "Troll - undertroll"
 
 }

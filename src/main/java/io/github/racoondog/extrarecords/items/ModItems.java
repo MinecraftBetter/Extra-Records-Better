@@ -115,6 +115,18 @@ public class ModItems {
     public static final Item WINDOWSHOPPERPART1 = create("window_shopper_part1", () -> CONFIG.laylow, DiscTexture.LAYLOW);
     public static final Item WINDOWSHOPPERPART2 = create("window_shopper_part2", () -> CONFIG.laylow, DiscTexture.LAYLOW);
 
+    //Troll
+    public static final Item BABYGIRL = create("barbygirl", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item RICKROLL = create("rickroll", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item ROCK = create("rock", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item ROISARD = create("roisard", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item RONARDOFAN = create("ronardofan", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item SARDJAP = create("sardjap", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item SARDJAPO = create("sardjapo", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item SMILESARD = create("smilesard", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item TROLLS = create("trolls", () -> CONFIG.troll, DiscTexture.TROLL);
+    public static final Item UNDERTROLL = create("undertroll", () -> CONFIG.troll, DiscTexture.TROLL);
+
 
 
 

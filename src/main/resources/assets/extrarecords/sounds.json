@@ -604,11 +604,92 @@
   "window_shopper_part2": {
     "sounds": [
       {
-        "name": "extrarecords:laylow/window_shopper_part2",
+        "name": "extrarecords:troll/window_shopper_part2",
         "stream": true
       }
     ]
   },
+  "barbygirl": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/barbygirl",
+        "stream": true
+      }
+    ]
+  },
+  "rickroll": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/rickroll",
+        "stream": true
+      }
+    ]
+  },
+  "rock": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/rock",
+        "stream": true
+      }
+    ]
+  },
+  "roisard": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/roisard",
+        "stream": true
+      }
+    ]
+  },
+  "ronardofan": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/ronardofan",
+        "stream": true
+      }
+    ]
+  },
+  "sardjap": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/sardjap",
+        "stream": true
+      }
+    ]
+  },
+  "sardjapo": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/sardjapo",
+        "stream": true
+      }
+    ]
+  },
+  "smilesard": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/smilesard",
+        "stream": true
+      }
+    ]
+  },
+  "trolls": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/trolls",
+        "stream": true
+      }
+    ]
+  },
+  "undertroll": {
+    "sounds": [
+      {
+        "name": "extrarecords:troll/undertroll",
+        "stream": true
+      }
+    ]
+  },
+
 
   "your_reality": {
     "sounds": [

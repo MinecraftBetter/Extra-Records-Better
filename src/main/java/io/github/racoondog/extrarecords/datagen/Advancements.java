@@ -38,7 +38,7 @@ public class Advancements {
             createAdvancement("laylow", "extrarecords:laylow", FrameType.GOAL, Lists.newArrayList("ciudad", "dehors_dans_la_night", "iversion", "logiciel_triste", "maladresse", "medaille", "megatron", "plug", "prince_de_sang-mele", "r9r-line", "special", "stuntmen", "swish", "trinityville", "vent_de_lest", "windows_shopper_part1", "window_shopper_part2"));
         }
         if (CONFIG.troll) {
-            createAdvancement("troll", "extrarecords:troll", FrameType.GOAL, Lists.newArrayList("", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""));
+            createAdvancement("troll", "extrarecords:troll", FrameType.GOAL, Lists.newArrayList("barbygirl", "rickroll", "rock", "roisard", "ronardofan", "sardjap", "sardjapo", "smilesard", "trolls", "undertroll"));
         }
     }
 
